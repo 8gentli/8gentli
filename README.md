@@ -27,13 +27,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   </p>
 
-  ### 📊 Neural Network Statistics
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=8gentli&show_icons=true&theme=radical&hide_border=true" alt="8gentli's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8gentli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
-
   ---
 
   _"Code is the poetry of a better future."_
